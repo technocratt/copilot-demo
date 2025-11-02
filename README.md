@@ -11,6 +11,12 @@
 | 5         | Testing           | Unit + Regression Automation         	|
 | 6         | Maintenance       | Bug Fixes, Q&A, Refactoring           |
 
+**Mock Screens**
+
+![Tenant Registration](https://github.com/technocratt/copilot-demo/blob/main/Tenant%20Registration.png)
+
+![Publish Patient Health Details](https://raw.githubusercontent.com/technocratt/copilot-demo/refs/heads/main/Publish%20Patient%20Health%20Details.png)
+
 ---
 
 ### 1. Intro
@@ -27,6 +33,7 @@ This app is a **multi-tenant healthcare platform** that allows hospitals and cli
 - Tenants use the key to post patient health records via APIs or the Blazor web interface.
 
 **Data Model:**
+
 | **Category**              | **Fields**                                                                                                                               |
 | ------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
 | **Patient Basic Details** | Name, Patient ID, Gender, Date of Birth                                                                                                  |
