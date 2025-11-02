@@ -13,7 +13,7 @@
 
 **Mock Screens**
 
-![Tenant Registration](https://github.com/technocratt/copilot-demo/blob/main/Tenant%20Registration.png)
+![Tenant Registration](https://raw.githubusercontent.com/technocratt/copilot-demo/refs/heads/main/Tenant%20Registration.png)
 
 ![Publish Patient Health Details](https://raw.githubusercontent.com/technocratt/copilot-demo/refs/heads/main/Publish%20Patient%20Health%20Details.png)
 
